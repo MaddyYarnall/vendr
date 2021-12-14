@@ -10,6 +10,6 @@ class ValuesService {
     ProxyState.values = values
   }
 }
-
 export const valuesService = new ValuesService();
+
 
