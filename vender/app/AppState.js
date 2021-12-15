@@ -10,7 +10,9 @@ class AppState extends EventEmitter {
     new Snack('Cheetos', 2.50),
     new Snack('Sprite', 2.75),
     new Snack('Cookie', 3.50),
-    new Snack('Pepsi', 2.75)
+    new Snack('Pepsi', 2.75),
+    new Snack('KitKat', 2.25),
+    new Snack('Water', 3.25)
   ]
   
   total = 0
